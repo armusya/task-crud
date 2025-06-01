@@ -32,8 +32,9 @@ http://localhost:8080
    "email": "test@gmail.com",
    "password": "password"
  }  
- После получения токена введите его в Header, в key указать "Authorization"
- А в Value указать "Bearer *ваш токен*"
+ После получения токена введите его в Header, в key указать "Authorization"  
+ А в Value указать "Bearer *ваш токен*"  
+ 
 	•	POST /api/auth/login – вход в систему и получение токенов
 
 Задачи  
